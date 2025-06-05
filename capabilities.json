@@ -40,7 +40,7 @@
                     "numeric": true
                 },
                 {
-                    "integer": true
+                    "integer": false
                 }
             ]
         },
@@ -103,7 +103,7 @@
                     },
                     "Duration": {
                         "min": 0,
-                        "max": 0
+                        "max": 1
                     },
                     "Completion": {
                         "min": 0,
